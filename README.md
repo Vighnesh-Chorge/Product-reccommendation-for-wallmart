@@ -1,2 +1,30 @@
-# Product-reccommendation-for-wallmart
-A hybrid recommendation system using Walmart product reviews, combining content-based filtering (TF-IDF, cosine similarity) and collaborative filtering (SVD) to suggest personalized products. Built with Python, scikit-learn, and Surprise, the model improves accuracy through a combined approach.
+# Walmart Product Recommendation System
+
+This project is a hybrid recommendation system using Walmart product review data. It combines content-based filtering and collaborative filtering to suggest relevant products to users.
+
+## Features
+
+- Content-based filtering (TF-IDF + Cosine Similarity)
+- Collaborative filtering (SVD using Surprise library)
+- Hybrid model for better recommendations
+- Evaluation using RMSE, precision@k, and recall@k
+
+## Tech Stack
+
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Surprise
+- Jupyter Notebook
+
+## How to Run
+
+1. Clone the repository
+2. Install the required libraries:  
+   `pip install -r requirements.txt`
+3. Open and run the notebooks in Jupyter
+
+## License
+
+MIT License
+
