@@ -1,5 +1,4 @@
 
-```markdown
 # Walmart Product Recommendation System
 
 This project is a hybrid recommendation system using Walmart product review data. It combines content-based filtering and collaborative filtering to suggest relevant products to users.
